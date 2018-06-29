@@ -78,7 +78,7 @@ should see a white page. Good job!
 ### Making the Divs Visible
 
  If you use the inspector or look at the file in your text editor, you'll see
-that the basic file stucture is there.  So why can't we see anything?!?!?
+that the basic file structure is there.  So why can't we see anything?!?!?
 That's because the divs have no styling on them right now.  And that's because
 we never told the browser to include a CSS file that would apply any styles.
 
